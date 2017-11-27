@@ -1,0 +1,1 @@
+export { default } from 'addon-two/components/comp-two';
